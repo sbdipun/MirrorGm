@@ -61,7 +61,7 @@ if DATABASE_URL is not None:
     except Exception as e:
         log_error(f"Database ERROR: {e}")
 
-UPSTREAM_REPO = "https://github.com/ALiENxBEN/AeonX"
+UPSTREAM_REPO = "https://github.com/ALiENxBEN/AeonDev"
 UPSTREAM_BRANCH = "main"
 
 if UPSTREAM_REPO:
